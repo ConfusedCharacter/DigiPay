@@ -1,2 +1,2 @@
 # DigiPay
-DigiPay.ir Library in python 
+app.mydigipay.com module with python 
